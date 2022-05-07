@@ -32,3 +32,11 @@ window.setLayout(layoutV)
 window.setLayout(layoutV)
 my_win.show()
 app.exes_()
+
+
+
+
+
+
+
+
